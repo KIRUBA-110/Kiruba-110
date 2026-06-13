@@ -13,21 +13,18 @@
 ---
 
 <!-- ⚓ ABOUT -->
-<div align="center">
-
-**"The sea is vast — so is knowledge. I sail both."**
-
-Final year Electronics & Communication Engineering student on a voyage through hardware, software, and everything in between.
-Microcontrollers, embedded C, Linux, AI/ML, DSP — charting a course through the Grand Line of tech.
-
-</div>
-
-<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Currently_Working_On-Embedded_AI_Project-FFD700?style=for-the-badge&labelColor=0a0e1a" />
-  <img src="https://img.shields.io/badge/Learning-VLSI_Design_with_Cadence-C0392B?style=for-the-badge&labelColor=0a0e1a" />
-  <img src="https://img.shields.io/badge/Open_To-Internships_%26_Collabs-1a3a5c?style=for-the-badge&labelColor=0a0e1a" />
+
+| | |
+|:---:|:---:|
+| 🎓 | Final year ECE student — Electronics & Communication Engineering |
+| ⚙️ | Passionate about Embedded Systems, Microcontrollers & RTOS |
+| 🐧 | Linux power user — comfortable in the terminal |
+| 🤖 | Exploring AI, ML, DSP & VLSI |
+| 🔭 | Currently building an Embedded AI project |
+| 🌊 | *"The sea is vast — so is knowledge. I sail both."* |
+
 </div>
 
 <br/>
@@ -125,14 +122,6 @@ Microcontrollers, embedded C, Linux, AI/ML, DSP — charting a course through th
   <img src="https://img.shields.io/badge/MATLAB-0a0e1a?style=for-the-badge&logo=mathworks&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/DSP-1a3a5c?style=for-the-badge&logo=signal&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/VLSI-0a0e1a?style=for-the-badge&logo=cadence&logoColor=FFD700" />
-</div>
-
----
-
-### Bounty Board — *GitHub Trophies*
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KIRUBA-110&theme=onestar&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 ---
