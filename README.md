@@ -12,7 +12,7 @@ Final year Electronics & Communication Engineering student.
 I build things with microcontrollers, write code that talks to hardware, and explore AI and signal processing on the side.
 Comfortable in a terminal, passionate about embedded systems, always learning.
 
-> Currently working on an Embedded AI projects · Open to internships & collaborations
+> Currently working on an Spinobar - A Spinal Rehabilation brace monitors pressure
 
 ## Programming Languages
 
