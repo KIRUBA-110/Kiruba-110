@@ -3,12 +3,6 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="banner.png" alt="Kirubagaran A — The Grand Line of Code" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=22&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=I'm+going+to+be+King+of+the+Pirates!;Electronics+Engineer;Embedded+Systems+Developer;Linux+Enthusiast;AI+%26+Machine+Learning;DSP+%7C+VLSI;ARM+%7C+RTOS+%7C+UART;Set+Sail+%E2%80%94+Always+Learning" alt="Typing SVG" />
   </a>
