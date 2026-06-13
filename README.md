@@ -88,19 +88,8 @@ Comfortable in a terminal, passionate about embedded systems, always learning.
   <img src="https://img.shields.io/badge/LPC1768-7C3AED?style=flat-square&logoColor=white" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Hardware & PCB
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kicad&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/PCB_Design-6C63FF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Soldering-5B4FCC?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-7C3AED?style=flat-square&logoColor=white" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### AI & Signal Processing
 
