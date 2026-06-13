@@ -16,14 +16,24 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 🎓 | Final year ECE student — Electronics & Communication Engineering |
-| ⚙️ | Passionate about Embedded Systems, Microcontrollers & RTOS |
-| 🐧 | Linux power user — comfortable in the terminal |
-| 🤖 | Exploring AI, ML, DSP & VLSI |
-| 🔭 | Currently building an Embedded AI project |
-| 🌊 | *"The sea is vast — so is knowledge. I sail both."* |
+```
+╔══════════════════════════════════════════════════════════╗
+║           ☠  WANTED  DEAD OR ALIVE  ☠                   ║
+║                                                          ║
+║              KIRUBAGARAN  A                              ║
+║           "The Circuit Pirate"                           ║
+║                                                          ║
+║  Role      »  Engineer of the Straw Hat Tech Crew        ║
+║  Devil Fruit»  Embedded-Embedded Fruit (Param Type)      ║
+║  Haki      »  Linux Haki · AI Haki · Silicon Haki        ║
+║  Weapon    »  Soldering Iron & a Terminal                 ║
+║  Dream     »  Bridge the gap between silicon & AI        ║
+║                                                          ║
+║         Bounty:  ฿ ∞  —  Priceless to the Crew          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+*Final year ECE student sailing the Grand Line of hardware, software, and AI.*
 
 </div>
 
