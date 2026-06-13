@@ -10,31 +10,6 @@
 
 <br/>
 
----
-
-<!-- ⚓ ABOUT -->
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║           ☠  WANTED  DEAD OR ALIVE  ☠                   ║
-║                                                          ║
-║              KIRUBAGARAN  A                              ║
-║           "The Circuit Pirate"                           ║
-║                                                          ║
-║  Role      »  Engineer of the Straw Hat Tech Crew        ║
-║  Devil Fruit»  Embedded-Embedded Fruit (Param Type)      ║
-║  Haki      »  Linux Haki · AI Haki · Silicon Haki        ║
-║  Weapon    »  Soldering Iron & a Terminal                 ║
-║  Dream     »  Bridge the gap between silicon & AI        ║
-║                                                          ║
-║         Bounty:  ฿ ∞  —  Priceless to the Crew          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-*Final year ECE student sailing the Grand Line of hardware, software, and AI.*
-
 </div>
 
 <br/>
@@ -51,7 +26,7 @@
 
 <!-- ⚔️ SKILLS — THE CREW'S ARSENAL -->
 
-### ⚔️ Programming Languages — *The Swords of the Crew*
+###  Programming Languages — *The Swords of the Crew*
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
@@ -59,7 +34,7 @@
 
 ---
 
-### 🌊 Linux & Networking — *Navigating the Grand Line*
+### Linux & Networking — *Navigating the Grand Line*
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
@@ -72,7 +47,7 @@
 
 ---
 
-### 🗺️ Databases — *The Poneglyphs*
+### Databases — *The Poneglyphs*
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
@@ -80,7 +55,7 @@
 
 ---
 
-### 🏴‍☠️ Tools & Environment — *Thousand Sunny's Gear*
+### Tools & Environment — *Thousand Sunny's Gear*
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim&theme=dark" />
@@ -88,7 +63,7 @@
 
 ---
 
-### ⚙️ Embedded Systems — *The Den Den Mushi Tech*
+### Embedded Systems — *The Den Den Mushi Tech*
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
@@ -101,7 +76,7 @@
 
 ---
 
-### 🔩 Microcontrollers — *The Devil Fruits*
+### Microcontrollers — *The Devil Fruits*
 
 <div align="center">
   <img src="https://img.shields.io/badge/8051-0a0e1a?style=for-the-badge&logo=microchip&logoColor=FFD700" />
@@ -111,7 +86,7 @@
 
 ---
 
-### 🔌 Hardware & PCB — *Franky's Shipwright Skills*
+### Hardware & PCB — *Franky's Shipwright Skills*
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kicad&theme=dark" />
@@ -123,7 +98,7 @@
 
 ---
 
-### 🤖 AI & Signal Processing — *Vegapunk's Laboratory*
+### AI & Signal Processing — *Vegapunk's Laboratory*
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark" />
