@@ -1,15 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=130&section=header" width="100%"/>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&width=600&lines=Hi+I'm+Kirubagaran+A;Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Linux+%7C+AI" alt="Typing SVG" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
 </div>
 
 <br/>
@@ -20,7 +12,7 @@ Final year Electronics & Communication Engineering student.
 I build things with microcontrollers, write code that talks to hardware, and explore AI and signal processing on the side.
 Comfortable in a terminal, passionate about embedded systems, always learning.
 
-> Currently working on an Embedded AI project · Open to internships & collaborations
+> Currently working on an Embedded AI projects · Open to internships & collaborations
 
 ## Programming Languages
 
