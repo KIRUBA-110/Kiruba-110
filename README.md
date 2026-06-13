@@ -1,15 +1,12 @@
 <div align="center">
 
-<h1>Hi, I'm Kirubagaran 👋</h1>
+# Hi, I'm Kirubagaran 👋
 
-<p>
-Electronics & Communication Engineering Student <br>
-Interested in Embedded Systems, AI, DSP, VLSI and Linux
-</p>
+Electronics & Communication Engineering Student
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Embedded+Systems;Artificial+Intelligence;Digital+Signal+Processing;Linux+Enthusiast;Always+Learning" />
-</a>
+Embedded Systems • AI • DSP • VLSI • Linux
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Embedded+Systems;Artificial+Intelligence;Digital+Signal+Processing;Linux+Enthusiast;Always+Learning+Something+New" />
 
 </div>
 
@@ -19,33 +16,114 @@ Interested in Embedded Systems, AI, DSP, VLSI and Linux
 
 * 🎓 ECE Student at Kongu Engineering College
 * ⚡ Interested in Embedded Systems and Hardware Design
-* 🤖 Currently exploring AI and Machine Learning
+* 🤖 Exploring AI, Machine Learning and Edge AI
+* 📡 Passionate about DSP, IoT and Computer Vision
 * 🐧 Linux Enthusiast
 * 🚀 Building practical engineering projects
 
 ---
 
-## Tech Stack
+## Skills & Tech Stack
+
+### Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github,linux,vscode" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/8051-Microcontroller-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PIC16F877A-Embedded-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LPC1768-ARM-red?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ---
 
-## GitHub Stats
+### Embedded Systems
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/C_Programming-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded_Systems-546E7A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RTOS-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UART-4CAF50?style=for-the-badge"/>
+
+</p>
+
+---
+
+### Microcontrollers
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/8051-1565C0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PIC16F877A-2E7D32?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LPC1768-C62828?style=for-the-badge"/>
+
+</p>
+
+---
+
+### PCB & Hardware
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PCB_Design-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PCB_Soldering-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Proteus_Design_Suite-673AB7?style=for-the-badge"/>
+
+</p>
+
+---
+
+### Linux & Networking
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Computer_Networking-0277BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-4A148C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KIRUBA-110&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KIRUBA-110&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBA-110&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBA-110&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -53,17 +131,17 @@ Interested in Embedded Systems, AI, DSP, VLSI and Linux
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRUBA-110&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRUBA-110&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## Activity
+## Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRUBA-110&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRUBA-110&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -82,7 +160,7 @@ Interested in Embedded Systems, AI, DSP, VLSI and Linux
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
 
@@ -99,3 +177,11 @@ Interested in Embedded Systems, AI, DSP, VLSI and Linux
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### ⚡ Building intelligent systems, one project at a time.
+
+</div>
