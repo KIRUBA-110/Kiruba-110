@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Kirubagaran+A;⚡+Electronics+Engineer;💻+Embedded+Systems;🐧+Linux+Enthusiast;🤖+AI+%26+Machine+Learning;📡+DSP+%7C+VLSI;⚙️+ARM+%7C+RTOS+%7C+UART;🚀+Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Kirubagaran+A;Electronics+Engineer;Embedded+Systems;Linux+Enthusiast;AI+%26+Machine+Learning;DSP+%7C+VLSI;ARM+%7C+RTOS+%7C+UART;Always+Learning" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 🐧 Linux & Networking
+###  Linux & Networking
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 🗄️ Databases
+###  Databases
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 🛠️ Tools & Environment
+###  Tools & Environment
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim&theme=dark" />
@@ -53,7 +53,7 @@
 
 ---
 
-### ⚙️ Embedded Systems
+###  Embedded Systems
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 🔬 Microcontrollers
+###  Microcontrollers
 
 <div align="center">
   <img src="https://img.shields.io/badge/8051-1565C0?style=for-the-badge&logo=microchip&logoColor=white" />
@@ -76,7 +76,7 @@
 
 ---
 
-### 🔌 Hardware & PCB
+###  Hardware & PCB
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kicad&theme=dark" />
@@ -88,7 +88,7 @@
 
 ---
 
-### 🤖 AI & Signal Processing
+###  AI & Signal Processing
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark" />
