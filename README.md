@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&width=850&lines=Kirubagaran+A;Electronics+Engineer;Embedded+Systems+Developer;Linux+Enthusiast;AI+%7C+DSP+%7C+VLSI;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&width=900&lines=Kirubagaran+A;Electronics+Engineer;Embedded+Systems+Developer;Linux+Enthusiast;AI+%7C+DSP+%7C+VLSI;Always+Learning" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,32 @@
 ## Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+## Linux & Networking
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Computer_Networking-0277BD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-4A148C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge" />
+</p>
+
+## Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ## Embedded Systems
@@ -50,31 +75,6 @@
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSP-0288D1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
-</p>
-
-## Linux & Networking
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Computer_Networking-0277BD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nmap-4A148C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge" />
-</p>
-
-## Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-## Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 <br />
