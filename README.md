@@ -1,14 +1,8 @@
-<!-- ============================================================ -->
-<!--                  STRAW HAT JOLLY ROGER                       -->
-<!-- ============================================================ -->
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=22&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=I'm+going+to+be+King+of+the+Pirates!;Electronics+Engineer;Embedded+Systems+Developer;Linux+Enthusiast;AI+%26+Machine+Learning;DSP+%7C+VLSI;ARM+%7C+RTOS+%7C+UART;Set+Sail+%E2%80%94+Always+Learning" alt="Typing SVG" />
-  </a>
-</div>
 
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Kirubagaran+A;Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Linux+%7C+AI" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -17,16 +11,24 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
 
 ---
 
-<!-- ⚔️ SKILLS — THE CREW'S ARSENAL -->
+### About
 
-###  Programming Languages — *The Swords of the Crew*
+Final year Electronics & Communication Engineering student.
+I build things with microcontrollers, write code that talks to hardware, and explore AI and signal processing on the side.
+Comfortable in a terminal, passionate about embedded systems, always learning.
+
+> Currently working on an Embedded AI project · Open to internships & collaborations
+
+---
+
+### Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
@@ -34,20 +36,20 @@
 
 ---
 
-### Linux & Networking — *Navigating the Grand Line*
+### Linux & Networking
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Networking-1a3a5c?style=for-the-badge&logo=cisco&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Wireshark-0a1628?style=for-the-badge&logo=wireshark&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Nmap-0a0e1a?style=for-the-badge&logo=nmap&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-1a0a0a?style=for-the-badge&logo=aircrack-ng&logoColor=C0392B" />
+  <img src="https://img.shields.io/badge/Networking-2d2d2d?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-2d2d2d?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-2d2d2d?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-2d2d2d?style=flat-square&logoColor=white" />
 </div>
 
 ---
 
-### Databases — *The Poneglyphs*
+### Databases
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
@@ -55,7 +57,7 @@
 
 ---
 
-### Tools & Environment — *Thousand Sunny's Gear*
+### Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim&theme=dark" />
@@ -63,77 +65,75 @@
 
 ---
 
-### Embedded Systems — *The Den Den Mushi Tech*
+### Embedded Systems
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Embedded_C-1a3a5c?style=for-the-badge&logo=c&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/ARM-0a0e1a?style=for-the-badge&logo=arm&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/RTOS-C0392B?style=for-the-badge&logo=freertos&logoColor=white" />
-  <img src="https://img.shields.io/badge/UART-1a3a5c?style=for-the-badge&logo=uart&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Embedded_C-2d2d2d?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-2d2d2d?style=flat-square&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTOS-2d2d2d?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/UART-2d2d2d?style=flat-square&logoColor=white" />
 </div>
 
 ---
 
-### Microcontrollers — *The Devil Fruits*
+### Microcontrollers
 
 <div align="center">
-  <img src="https://img.shields.io/badge/8051-0a0e1a?style=for-the-badge&logo=microchip&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/PIC16F877A-1a3a5c?style=for-the-badge&logo=microchip&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/LPC1768-C0392B?style=for-the-badge&logo=nxp-semiconductors&logoColor=white" />
+  <img src="https://img.shields.io/badge/8051-2d2d2d?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIC16F877A-2d2d2d?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LPC1768-2d2d2d?style=flat-square&logoColor=white" />
 </div>
 
 ---
 
-### Hardware & PCB — *Franky's Shipwright Skills*
+### Hardware & PCB
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kicad&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/PCB_Design-0a0e1a?style=for-the-badge&logo=altium-designer&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Soldering-1a3a5c?style=for-the-badge&logo=soldering-iron&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Proteus-C0392B?style=for-the-badge&logo=proteus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB_Design-2d2d2d?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soldering-2d2d2d?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-2d2d2d?style=flat-square&logoColor=white" />
 </div>
 
 ---
 
-### AI & Signal Processing — *Vegapunk's Laboratory*
+### AI & Signal Processing
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Machine_Learning-C0392B?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0a0e1a?style=for-the-badge&logo=mathworks&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/DSP-1a3a5c?style=for-the-badge&logo=signal&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/VLSI-0a0e1a?style=for-the-badge&logo=cadence&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Machine_Learning-2d2d2d?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-2d2d2d?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSP-2d2d2d?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLSI-2d2d2d?style=flat-square&logoColor=white" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRUBA-110&theme=react-dark&hide_border=true&area=true&color=FFD700&line=FFD700&point=C0392B" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRUBA-110&theme=github-compact&hide_border=true&area=true" alt="activity graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KIRUBA-110&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0a0e1a"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KIRUBA-110&show_icons=true&theme=github_dark&hide_border=true"/>
   &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBA-110&layout=compact&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0a0e1a"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBA-110&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRUBA-110&theme=dark&hide_border=true&ring=FFD700&fire=C0392B&currStreakLabel=FFD700&background=0a0e1a"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRUBA-110&theme=github-dark-blue&hide_border=true"/>
 </div>
 
 <br/>
 
 ---
-
-<!-- ⚓ CONTACT -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kirubagaran-a-9aa365287">
@@ -152,11 +152,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KIRUBA-110&label=Crew+Members&color=FFD700&style=for-the-badge" alt="profile views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"Wealth, Fame, Power — The man who had it all was Gold Roger, the King of the Pirates. Set sail — the Grand Line awaits."</i>
+  <img src="https://komarev.com/ghpvc/?username=KIRUBA-110&label=visitors&color=555555&style=flat-square" alt="visitors" />
 </div>
