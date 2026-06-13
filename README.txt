@@ -1,177 +1,193 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kirubagaran%20A&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&width=700&lines=Hi+I'm+Kirubagaran+A;Electronics+%26+Communication+Engineer;Embedded+Systems+Developer;AI+%7C+DSP+%7C+VLSI+%7C+Linux" alt="Typing SVG" />
+  </a>
+</div>
 
-# ⚡ Electronics Engineer | Embedded Developer | AI Explorer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KIRUBA-110&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
+</p>
 
-```c
-while(alive)
-{
-    Learn();
-    Build();
-    BreakThings();
-    Debug();
-    Repeat();
-}
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+# ⚡ About Me
 
 🎓 ECE Student at Kongu Engineering College
 
-🔬 Interested in Embedded Systems, DSP, AI/ML, Edge AI & VLSI
+🔬 Passionate about Embedded Systems & Hardware Design
 
-🐧 Linux User
+🤖 Currently Learning AI, Machine Learning & Edge AI
 
-⚙️ Hardware + Software Integration Enthusiast
+📡 Interested in IoT, DSP, Computer Vision and VLSI
 
-🚀 Building systems that interact with the real world
+🐧 Linux Enthusiast (Arch Linux)
 
----
-
-## 🧠 Current Focus
-
-- Embedded Systems Development
-- AI & Machine Learning
-- Computer Vision
-- Edge AI Applications
-- VLSI Design
-- Signal Processing
-- Hardware Debugging
-- PCB Design Fundamentals
+🚀 Building real-world engineering solutions through Hardware + Software Integration
 
 ---
 
-## ⚒️ Tech Stack
+## Programming Languages
 
-### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/8051-Assembly-red?style=for-the-badge)
+---
 
-### Embedded Platforms
+## Embedded Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 
 ![8051](https://img.shields.io/badge/8051-Microcontroller-blue?style=for-the-badge)
 ![PIC16F877A](https://img.shields.io/badge/PIC16F877A-green?style=for-the-badge)
-![LPC1768](https://img.shields.io/badge/LPC1768-ARM-red?style=for-the-badge)
-
-### Tools
-
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=arch-linux)
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![LPC1768](https://img.shields.io/badge/LPC1768-red?style=for-the-badge)
 
 ---
 
-# 🚀 Featured Projects
+## AI / Machine Learning
 
-## 🌱 Plantix
-
-AI-powered agriculture platform featuring:
-
-- Plant Density Analysis
-- Yield Prediction
-- Crop Health Monitoring
-- Computer Vision Processing
-
----
-
-## 📡 RFID Access Control System
-
-MFRC522 + LPC1768
-
-Features:
-
-- SPI Communication
-- UID Detection
-- UART Monitoring
-- Secure Authentication
-
----
-
-## 🎵 Music Genre Analyzer
-
-DSP Project using:
-
-- FFT
-- Overlap Add Method
-- Overlap Save Method
-- Spectral Energy Analysis
-
----
-
-## 📈 MATLAB Digital Oscilloscope
-
-Features:
-
-- FFT Analysis
-- Filtering
-- Spectrogram Visualization
-- Signal Monitoring
-
----
-
-## ⚡ Automatic Power Factor Correction
-
-8051-Based APFC System
-
-- Zero Crossing Detection
-- LCD Interface
-- Power Monitoring
-- Industrial Applications
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KIRUBA-110&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBA-110&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRUBA-110&theme=tokyonight"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## Tools & Technologies
 
-- [ ] Master Embedded C
-- [ ] Build Production-Grade Embedded Projects
-- [ ] Learn Advanced AI & Deep Learning
-- [ ] Contribute to Open Source
-- [ ] Develop Edge AI Solutions
-- [ ] Secure an Embedded/Hardware Engineering Role
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,matlab" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## Areas of Interest
 
-```yaml
-Status:
-    Eating bugs...
-    Converting caffeine into code...
-```
+* Embedded Systems
+* Artificial Intelligence
+* Machine Learning
+* Edge AI
+* Digital Signal Processing
+* RFID Systems
+* Computer Vision
+* IoT
+* VLSI Design
+* Linux
 
 ---
 
-## 💭 Engineering Philosophy
+## Featured Projects
 
-> "The best way to understand a system is to build it from scratch."
+### 🌱 Plantix
+
+AI-Powered Smart Agriculture Platform
+
+* Plant Density Analysis
+* Yield Prediction
+* Crop Health Monitoring
+* OpenCV-based Processing
+
+### 📡 RFID Access Control System
+
+* MFRC522 RFID Reader
+* LPC1768 ARM Cortex-M3
+* SPI Communication
+* UART Monitoring
+
+### 🎵 Music Genre Analyzer
+
+* FFT Analysis
+* Overlap Add Method
+* Overlap Save Method
+* Frequency Domain Classification
+
+### 📈 MATLAB Digital Oscilloscope
+
+* FFT Visualization
+* Spectrogram Analysis
+* Signal Filtering
+* Frequency Spectrum Monitoring
+
+### ⚡ Automatic Power Factor Correction
+
+* AT89C51 Microcontroller
+* Zero Crossing Detection
+* LCD Interface
+* Industrial Automation Concepts
 
 ---
 
-### ⚡ Fun Fact
+## GitHub Statistics
 
-I enjoy working on projects that sit at the intersection of:
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KIRUBA-110&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBA-110&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRUBA-110&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRUBA-110&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## Current Learning Journey
 
 ```text
-Electronics
-     ×
-Programming
-     ×
-Artificial Intelligence
+Embedded Systems   ████████████░░░░ 80%
+Machine Learning   ███████░░░░░░░░░ 50%
+Computer Vision    ██████░░░░░░░░░░ 40%
+Edge AI            █████░░░░░░░░░░░ 35%
+VLSI Design        ████████░░░░░░░░ 55%
 ```
 
-Because that's where the coolest engineering happens.
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/KIRUBA-110">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Engineering is where Hardware meets Intelligence ⚡
+
+</div>
