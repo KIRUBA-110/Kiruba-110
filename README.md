@@ -1,17 +1,18 @@
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=130&section=header" width="100%"/>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&width=600&lines=Hi+I'm+Kirubagaran+A;Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Linux+%7C+AI" alt="Typing SVG" />
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/KIRUBA-110/KIRUBA-110/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
 
-<br />
-<br />
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
+</div>
+
+<br/>
 
 ## About Me
 
