@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="https://i.redd.it/snoovatar/avatars/5db9ceb0-db9f-4e51-8a39-8d8c14d790d2-headshot.png"
+       alt="Profile Avatar"
+       width="120"
+       style="border-radius: 50%;" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=E53935&center=true&width=600&lines=Hi+I'm+Kirubagaran+A;Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Linux+%7C+AI" alt="Typing SVG" />
   </a>
