@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://i.redd.it/snoovatar/avatars/5db9ceb0-db9f-4e51-8a39-8d8c14d790d2-headshot.png"
-       alt="Profile Avatar"
-       width="120"
-       style="border-radius: 50%;" />
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -18,6 +13,14 @@ I build things with microcontrollers, write code that talks to hardware, and exp
 Comfortable in a terminal, passionate about embedded systems, always learning.
 
 > Currently working on an Spinobar - A Spinal Rehabilation brace monitors pressure on the upper spinal region
+
+
+<div align="center">
+  <img src="https://i.redd.it/snoovatar/avatars/5db9ceb0-db9f-4e51-8a39-8d8c14d790d2-headshot.png"
+       alt="Profile Avatar"
+       width="120"
+       style="border-radius: 50%;" />
+</div>
 
 ## Programming Languages 
 
