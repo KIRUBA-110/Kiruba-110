@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="160">
-      <img src="https://i.redd.it/snoovatar/avatars/5db9ceb0-db9f-4e51-8a39-8d8c14d790d2.png"
+      <img src="https://i.redd.it/snoovatar/avatars/cb97a270-94f5-4061-a19f-8d9a11023c35.png"
            alt="Profile Avatar"
            width="140" />
     </td>
