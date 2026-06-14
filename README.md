@@ -4,8 +4,6 @@
   </a>
 </div>
 
-<br/>
-
 ## About Me
 
 Final year Electronics & Communication Engineering student.
