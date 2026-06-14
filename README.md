@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="160">
-      <img src="https://i.redd.it/snoovatar/avatars/cb97a270-94f5-4061-a19f-8d9a11023c35.png"
+      <img src="/home/luffy/Downloads/github.jpeg"
            alt="Profile Avatar"
            width="140" />
     </td>
