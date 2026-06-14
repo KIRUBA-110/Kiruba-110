@@ -8,19 +8,21 @@
 
 ## About Me
 
-Final year Electronics & Communication Engineering student.
-I build things with microcontrollers, write code that talks to hardware, and explore AI and signal processing on the side.
-Comfortable in a terminal, passionate about embedded systems, always learning.
-
-> Currently working on an Spinobar - A Spinal Rehabilation brace monitors pressure on the upper spinal region
-
-
-<div align="center">
-  <img src="https://i.redd.it/snoovatar/avatars/5db9ceb0-db9f-4e51-8a39-8d8c14d790d2-headshot.png"
-       alt="Profile Avatar"
-       width="120"
-       style="border-radius: 50%;" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="160">
+      <img src="https://i.redd.it/snoovatar/avatars/5db9ceb0-db9f-4e51-8a39-8d8c14d790d2-headshot.png"
+           alt="Profile Avatar"
+           width="140" />
+    </td>
+    <td valign="middle">
+      Final year Electronics &amp; Communication Engineering student.<br/>
+      I build things with microcontrollers, write code that talks to hardware, and explore AI and signal processing on the side.<br/>
+      Comfortable in a terminal, passionate about embedded systems, always learning.<br/><br/>
+      <blockquote>Currently working on <strong>Spinobar</strong> — A Spinal Rehabilitation brace that monitors pressure on the upper spinal region.</blockquote>
+    </td>
+  </tr>
+</table>
 
 ## Programming Languages 
 
