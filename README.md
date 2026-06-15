@@ -16,7 +16,7 @@
            width="140" />
     </td>
     <td valign="middle">
-      Final year Electronics &amp; Communication Engineering student.<br/>
+      Final year Electronics &amp; student.<br/>
       I build things with microcontrollers, write code that talks to hardware, and explore AI and signal processing on the side.<br/>
       Comfortable in a terminal, passionate about embedded systems, always learning.<br/><br/>
       <blockquote>Currently working on <strong>Spinobar</strong> — A Spinal Rehabilitation brace that monitors pressure on the upper spinal region.</blockquote>
