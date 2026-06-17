@@ -86,28 +86,6 @@
   <img src="https://img.shields.io/badge/VLSI-D32F2F?style=for-the-badge&logoColor=white" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRUBA-110&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
-<br />
-<br />
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KIRUBA-110&show_icons=true&theme=tokyonight&hide_border=true&icon_color=E53935&title_color=E53935"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUBA-110&layout=compact&theme=tokyonight&hide_border=true&title_color=E53935"/>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRUBA-110&theme=tokyonight&hide_border=true&ring=E53935&fire=B71C1C&currStreakLabel=E53935"/>
-</div>
-
-<br />
-<br />
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kirubagaran-a-9aa365287">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
