@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="160">
-      <img src="/home/luffy/Downloads/github.jpeg"
+      <img src="/avatar/luffy.png"
            alt="Profile Avatar"
            width="140" />
     </td>
